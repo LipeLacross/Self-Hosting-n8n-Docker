@@ -12,7 +12,7 @@ This project sets up a self-hosted instance of [n8n](https://n8n.io/), a workflo
 - Easy setup and deployment using Docker Compose.
 
 ### Visual Example of the Project
-![n8n Interface](https://docs.n8n.io/assets/img/landing/hero-small.png)
+![n8n Interface](https://github.com/user-attachments/assets/345575dc-e9dd-4ca5-918a-4a9805a3d571)
 
 ## ✔️ Techniques and Technologies Used
 
